@@ -1,1 +1,1 @@
-# CS310
+# CS310 Data Structures
